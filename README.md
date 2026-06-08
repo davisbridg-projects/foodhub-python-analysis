@@ -18,9 +18,9 @@ the customer experience.
  Description 
 |
 |
----
+:---
 |
----
+:---
 |
 |
 `order_id`
@@ -111,8 +111,13 @@ the customer experience.
 ---
 |
 |
-`foodhub_python_analysis.ipynb`
+[
+foodhub_python_analysis.ipynb
+](
+https://github.com/davisbridg-projects/foodhub-python-analysis/blob/main/foodhub_python_analysis.ipynb
+)
 |
  Full Python notebook with code, visualizations, and analysis 
+|
 |
 
