@@ -12,33 +12,11 @@ understand restaurant demand patterns and identify opportunities to improve
 the customer experience.
 ---
 ## 📦 Dataset
-|
- Column 
-|
- Description 
-|
-|
-:---
-|
-:---
-|
-|
-`order_id`
-|
- Unique ID of the order 
-|
-|
-`customer_id`
-|
- ID of the customer who placed the order 
-|
-|
-`restaurant_name`
-|
- Name of the restaurant 
-|
-|
-`cuisine_type`
+| Data Type | Description 
+| `order_id`| Unique ID of the order 
+| `customer_id`| ID of the customer who placed the order 
+| `restaurant_name`| Name of the restaurant 
+| `cuisine_type`
 |
  Type of cuisine ordered 
 |
