@@ -12,39 +12,17 @@ understand restaurant demand patterns and identify opportunities to improve
 the customer experience.
 ---
 ## 📦 Dataset
-| Data Type | Description 
+| Data Type | Description |
+|---|---|
 | `order_id`| Unique ID of the order 
 | `customer_id`| ID of the customer who placed the order 
 | `restaurant_name`| Name of the restaurant 
-| `cuisine_type`
-|
- Type of cuisine ordered 
-|
-|
-`cost`
-|
- Cost of the order 
-|
-|
-`day_of_the_week`
-|
- Weekday (Mon–Fri) or Weekend (Sat–Sun) 
-|
-|
-`rating`
-|
- Customer rating out of 5 
-|
-|
-`food_preparation_time`
-|
- Minutes from order confirmation to pick-up 
-|
-|
-`delivery_time`
-|
- Minutes from pick-up to drop-off 
-|
+| `cuisine_type`| Type of cuisine ordered 
+| `cost`| Cost of the order 
+| `day_of_the_week`| Weekday (Mon–Fri) or Weekend (Sat–Sun) 
+| `rating`| Customer rating out of 5 
+| `food_preparation_time`| Minutes from order confirmation to pick-up 
+| `delivery_time`| Minutes from pick-up to drop-off
 
 ---
 ## ❓ Key Business Questions Answered
@@ -78,24 +56,7 @@ the customer experience.
 `Data Cleaning` · `Data Visualization` · `Statistical Analysis` · `Business Insights`
 ---
 ## 📁 Files
-|
- File 
-|
- Description 
-|
-|
----
-|
----
-|
-|
-[
-foodhub_python_analysis.ipynb
-](
-https://github.com/davisbridg-projects/foodhub-python-analysis/blob/main/foodhub_python_analysis.ipynb
-)
-|
- Full Python notebook with code, visualizations, and analysis 
-|
-|
+| File | Description 
+|---|---|
+|[foodhub_python_analysis.ipynb](https://github.com/davisbridg-projects/foodhub-python-analysis/blob/main/foodhub_python_analysis.ipynb) |Full Python notebook with code, visualizations, and analysis 
 
